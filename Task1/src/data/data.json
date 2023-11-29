@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "MErCH MOSAIC",
+    "paragraph": "Step into the eclectic realm of MerchMosaic, where fashion meets art in a harmonious blend of diverse styles. Uncover exclusive treasures and unique finds that transform your wardrobe into a canvas of individual expression."
+  },
+  "About": {
+    "paragraph": "At MerchMosaic, we embody a collective passion for artistic diversity, curating a marketplace that transcends trends. Our mission is to connect you with unique, handpicked treasures, where every artist's story is a chapter in our creative narrative. From exclusive fashion statements to captivating collectibles, we invite you to explore a world where your choices make a difference. Join us in celebrating the extraordinary, where every thread is a brushstroke on the canvas of personal style. Welcome to MerchMosaic, where individuality finds its expression.",
+    "Why": [
+      "Curated Selection",
+      "Artist Empowerment",
+      "Unique Finds",
+      "Quality Assurance"
+    ],
+    "Why2": [
+      "Fashion Fusion",
+      "Secure Transactions",
+      "Community Connection",
+      "Expressive Individuality"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Sweat Shirts",
+      "largeImage": "img/portfolio/b.jpg",
+      "smallImage": "img/portfolio/b.jpg"
+    },
+    {
+      "title": "Posters",
+      "largeImage": "img/portfolio/k.jpg",
+      "smallImage": "img/portfolio/k.jpg"
+    },
+    {
+      "title": "merch pillows",
+      "largeImage": "img/portfolio/n.jpg",
+      "smallImage": "img/portfolio/n.jpg"
+    },
+    {
+      "title": "accessories",
+      "largeImage": "img/portfolio/o.jpg",
+      "smallImage": "img/portfolio/o.jpg"
+    },
+    {
+      "title": "styling",
+      "largeImage": "img/portfolio/i.jpg",
+      "smallImage": "img/portfolio/i.jpg"
+    },
+    {
+      "title": "albums",
+      "largeImage": "img/portfolio/e.jpg",
+      "smallImage": "img/portfolio/e.jpg"
+    },
+    {
+      "title": "beanies",
+      "largeImage": "img/portfolio/j.jpg",
+      "smallImage": "img/portfolio/j.jpg"
+    },
+    {
+      "title": "vinyl records",
+      "largeImage": "img/portfolio/l.jpg",
+      "smallImage": "img/portfolio/l.jpg"
+    },
+    {
+      "title": "limited editions",
+      "largeImage": "img/portfolio/a.jpg",
+      "smallImage": "img/portfolio/a.jpg"
+    }
+  ],
+  "Finds": [
+    {
+      "icon":"fa fa-wordpress",
+      "name": "Wear Your Fandom",
+      "text": "Explore artist-inspired clothing, including T-shirts, hoodies, and stylish accessories to showcase your favorite artists."
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "Exclusive Treasures",
+      "text": "Discover autographed vinyl records, limited edition prints, and signed posters – unique collectibles you won't find anywhere else."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Style Statements",
+      "text": "Elevate your look with artist-inspired accessories like jewelry, hats, scarves, and tech accessories that blend fashion and fandom."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "name": "Street Art Vibes",
+      "text": "Immerse yourself in the urban art scene with streetwear essentials – T-shirts, hoodies, and skateboards inspired by iconic street artists."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Fashion Fusion Finds",
+      "text": "Stay on trend with a fusion of fashion-forward items inspired by your favorite artists, from trendy dresses to bomber jackets and streetwear."
+    },
+    {
+      "icon": "fa fa-home",
+      "name": "Visual Delights at Home",
+      "text": "Transform your space with visually captivating art prints, home decor items, and collectibles inspired by renowned artists."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Thrilled with my purchase! The craftsmanship and attention to detail exceeded my expectations. A must for any art enthusiast!\"",
+      "name": "Arjun Rao"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Incredible service and top-notch products. My signed vinyl from your exclusive collectibles instantly became the highlight of my music collection.\"",
+      "name": "Raj Kapoor"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The 'Finds' collection is a hidden gem! I adore my artist-inspired accessories; they add a touch of uniqueness to my everyday style.\"",
+      "name": "Varun Sharma"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"As a street art lover, your 'Street Art Essentials' category is a dream come true. The quality of the merchandise truly reflects the essence of urban art.\"",
+      "name": "Anaya Patel"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"The 'Wear Your Fandom' section perfectly captures the essence of my favorite artists' fashion styles. I can't get enough of the trendy and unique pieces!\"",
+      "name": "Vikram Singh"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"The 'Visual Delights at Home' category transformed my living space. The art prints and home decor items have added a creative and vibrant touch to my home.\"",
+      "name": "Aisha Desai"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/10.png",
+      "name": "Aarav Kapoor",
+      "job": "Founder & Creative Director"
+    },
+    {
+      "img": "img/team/07.png",
+      "name": "Neha Patel",
+      "job": "Lead Curator & Merchandise Expert"
+    },
+    {
+      "img": "img/team/12.png",
+      "name": "Rajeev Sharma",
+      "job": "Customer Experience Manager"
+    },
+    {
+      "img": "img/team/08.png",
+      "name": "Priya Singh",
+      "job": "Digital Marketing Strategist"
+    }
+  ],
+  "Contact": {
+    "address": "24 Tilak Marg, New Delhi, CA 020626,  India ",
+    "phone": "+91 90765 34567",
+    "email": "merchmosaic@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-umbrella",
+      "title": "Intuitive Navigation",
+      "text": "Effortlessly explore our diverse range of artist merchandise with a user-friendly interface, ensuring a seamless and enjoyable browsing experience."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Exclusive Releases",
+      "text": "Stay ahead of the curve with our regularly updated collection, featuring exclusive releases and limited edition items that you won't find anywhere else."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Personalized Collections",
+      "text": "Create your unique style by curating personalized collections with our vast selection of wearables, accessories, and home decor inspired by your favorite artists."
+    },
+    {
+      "icon": "fa fa-tasks",
+      "title": "Secure Shopping",
+      "text": "Shop confidently with our secure payment gateways and robust privacy measures, ensuring your personal information is protected throughout your entire shopping journey."
+    }
+  ]
+}
